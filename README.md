@@ -1,6 +1,5 @@
-TECHNICAL TASK:
-Using the "Observer" pattern, develop a program in which the decimal numbers given by the subject are converted into various other systems of calculation by observers. Depending on the sign of the transferred number and its value, the following options are possible:
+TECHNICAL TASK: Develop a console application using the "Observer" pattern that converts decimal numbers provided by the subject into different calculation systems through the use of observers. The program should consider the sign and value of the transferred number, and allow for the following options:
 
-• Report that the number is too large / negative;
+• Notify the user if the number is too large or negative.
 
-• Output the number passed by the subject in its own system of calculation.
+• Output the number in its own calculation system.
